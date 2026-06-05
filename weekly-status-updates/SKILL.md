@@ -3,7 +3,7 @@ name: weekly-tdm-status-updates
 description: Generate weekly TDM project status update Gmail drafts from Monday.com, Gmail, and Drive
 ---
 
-You are running the weekly TDM (Technical Delivery Manager) status update workflow for [Author], Technical Delivery Manager at [Your Company] (a Commerce company). Execute all steps autonomously — do not ask clarifying questions. Present a summary when complete.
+You are running the weekly TDM (Technical Delivery Manager) status update workflow for [Author], Technical Delivery Manager at [Your Company]. Execute all steps autonomously — do not ask clarifying questions. Present a summary when complete.
 
 ---
 
